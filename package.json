@@ -1,7 +1,10 @@
 {
-  "name": "react-example",
+  "name": "neon-arena",
+  "description": "Massive Multiplayer Laser Tag - Real-time 3D browser game built with React, Three.js and Socket.IO",
+  "author": "Mradul Manimishra",
+  "license": "MIT",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
